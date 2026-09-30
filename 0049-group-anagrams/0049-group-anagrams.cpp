@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
        unordered_map<string,vector<string>> list;
-        int n=strs.size();
          for(const auto& i : strs){
             string s=i;
             sort(s.begin(),s.end());
@@ -13,6 +12,6 @@ public:
             res.push_back(i.second);
          }
          return res;
-         
+
     }
 };
