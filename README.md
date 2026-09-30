@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stark-ss/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/stark-ss/LeetCode_practice/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -21,4 +22,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
