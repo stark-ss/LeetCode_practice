@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stark-ss/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
