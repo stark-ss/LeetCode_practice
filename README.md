@@ -28,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/stark-ss/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/stark-ss/LeetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -39,8 +40,10 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stark-ss/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/stark-ss/LeetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stark-ss/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/stark-ss/LeetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
