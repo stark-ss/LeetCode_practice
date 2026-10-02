@@ -41,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/stark-ss/LeetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/stark-ss/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/stark-ss/LeetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0088-merge-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stark-ss/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +84,7 @@
 | [0134-gas-station](https://github.com/stark-ss/LeetCode_practice/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 ## Quicksort
 |  |
 | ------- |
