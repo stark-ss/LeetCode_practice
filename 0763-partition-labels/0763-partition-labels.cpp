@@ -12,10 +12,7 @@ public:
             list[s[i]].second=i;
         }
         for(int i=0;i<n;i++){
-          if(list[s[r]].second>=list[s[i]].first)
           r=max(r,list[s[i]].second);
-          else
-          r=max(list[s[i]].first,list[s[i]].second);
           if(r==i){
            res.push_back(i-l+1);
            l=i+1;
