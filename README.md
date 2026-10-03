@@ -118,14 +118,24 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/stark-ss/LeetCode_practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/stark-ss/LeetCode_practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
