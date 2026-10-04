@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/stark-ss/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -40,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/stark-ss/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stark-ss/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/stark-ss/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stark-ss/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
@@ -121,6 +124,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/stark-ss/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/stark-ss/LeetCode_practice/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/stark-ss/LeetCode_practice/tree/master/0456-132-pattern) |
@@ -131,6 +135,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/stark-ss/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/stark-ss/LeetCode_practice/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/stark-ss/LeetCode_practice/tree/master/0456-132-pattern) |
