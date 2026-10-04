@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/stark-ss/LeetCode_practice/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/stark-ss/LeetCode_practice/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0704-binary-search) |
@@ -83,6 +84,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stark-ss/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0456-132-pattern](https://github.com/stark-ss/LeetCode_practice/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/stark-ss/LeetCode_practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stark-ss/LeetCode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/stark-ss/LeetCode_practice/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/stark-ss/LeetCode_practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/stark-ss/LeetCode_practice/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/stark-ss/LeetCode_practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
@@ -142,4 +146,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/stark-ss/LeetCode_practice/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
