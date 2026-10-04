@@ -165,10 +165,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stark-ss/LeetCode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stark-ss/LeetCode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -182,4 +184,16 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stark-ss/LeetCode_practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stark-ss/LeetCode_practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stark-ss/LeetCode_practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
