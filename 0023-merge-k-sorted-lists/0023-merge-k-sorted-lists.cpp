@@ -9,32 +9,30 @@
  * };
  */
 class Solution {
+    struct compare{
+     bool operator()(ListNode* a, ListNode* b){
+        return a->val > b->val;
+     }
+    };
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int n=lists.size();
-        if(n==0 ) return nullptr;
-        else if(n==1) return lists[0];
-        ListNode* h1=lists[0];
-       for(int i=1;i<n;i++){
-        ListNode* res=new ListNode(0);
-        ListNode* tail=res;
-        ListNode* h2=lists[i];  
-        while(h1 && h2){
-            if(h1->val<=h2->val){
-             tail->next=h1;
-             tail=tail->next;
-             h1=h1->next;
-            }
-            else{
-            tail->next=h2;
-             tail=tail->next;
-             h2=h2->next;    
-            }
-        }
-        if(h1) tail->next=h1;
-        if(h2) tail->next=h2;
-        h1=res->next;
+       priority_queue<ListNode*,vector<ListNode*>,compare> q;
+       for(auto& i:lists){
+        if(i)
+        q.push(i);
        }
-      return h1;
+
+       ListNode* res=new ListNode(0);
+       ListNode* tail=res;
+       while(!q.empty()){
+        auto cur=q.top();
+        q.pop();
+        tail->next=cur;
+        tail=tail->next;
+        if(cur->next)
+        q.push(cur->next);
+       }
+      return res->next;
     }
 };
