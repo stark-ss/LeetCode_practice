@@ -3,8 +3,8 @@ public:
     vector<int> findAnagrams(string s, string p) {
         int n=s.size();
         int m=p.size();
-        vector<int> tem(26,0);
-        vector<int> t;
+        array<int,26> tem={0};
+        array<int,26> t;
         vector<int> res;
         for(int i=0;i<m;i++)
         tem[p[i]-'a']+=1;
