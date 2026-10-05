@@ -57,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/stark-ss/LeetCode_practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/stark-ss/LeetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/stark-ss/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -80,6 +81,7 @@
 | [0242-valid-anagram](https://github.com/stark-ss/LeetCode_practice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/stark-ss/LeetCode_practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/stark-ss/LeetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/stark-ss/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 | [1041-robot-bounded-in-circle](https://github.com/stark-ss/LeetCode_practice/tree/master/1041-robot-bounded-in-circle) |
 ## Sliding Window
@@ -88,6 +90,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/stark-ss/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/stark-ss/LeetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/stark-ss/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
