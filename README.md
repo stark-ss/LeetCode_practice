@@ -15,6 +15,7 @@
 | [0134-gas-station](https://github.com/stark-ss/LeetCode_practice/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stark-ss/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/stark-ss/LeetCode_practice/tree/master/0238-product-of-array-except-self) |
@@ -127,6 +128,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
 | [1041-robot-bounded-in-circle](https://github.com/stark-ss/LeetCode_practice/tree/master/1041-robot-bounded-in-circle) |
 ## Simulation
 |  |
@@ -204,4 +206,24 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/stark-ss/LeetCode_practice/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
