@@ -79,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/stark-ss/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/stark-ss/LeetCode_practice/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/stark-ss/LeetCode_practice/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/stark-ss/LeetCode_practice/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/stark-ss/LeetCode_practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/stark-ss/LeetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/stark-ss/LeetCode_practice/tree/master/0050-powx-n) |
+| [0168-excel-sheet-column-title](https://github.com/stark-ss/LeetCode_practice/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 | [0878-nth-magical-number](https://github.com/stark-ss/LeetCode_practice/tree/master/0878-nth-magical-number) |
