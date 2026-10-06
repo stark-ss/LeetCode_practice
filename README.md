@@ -136,6 +136,7 @@
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 | [0878-nth-magical-number](https://github.com/stark-ss/LeetCode_practice/tree/master/0878-nth-magical-number) |
 | [1041-robot-bounded-in-circle](https://github.com/stark-ss/LeetCode_practice/tree/master/1041-robot-bounded-in-circle) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/stark-ss/LeetCode_practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1922-count-good-numbers](https://github.com/stark-ss/LeetCode_practice/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
