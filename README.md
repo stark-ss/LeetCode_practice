@@ -130,6 +130,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/stark-ss/LeetCode_practice/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
+| [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 | [1041-robot-bounded-in-circle](https://github.com/stark-ss/LeetCode_practice/tree/master/1041-robot-bounded-in-circle) |
 ## Simulation
 |  |
@@ -231,4 +232,28 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/stark-ss/LeetCode_practice/tree/master/0050-powx-n) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
