@@ -128,6 +128,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/stark-ss/LeetCode_practice/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
 | [1041-robot-bounded-in-circle](https://github.com/stark-ss/LeetCode_practice/tree/master/1041-robot-bounded-in-circle) |
 ## Simulation
@@ -226,4 +227,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/stark-ss/LeetCode_practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
