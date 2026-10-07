@@ -19,6 +19,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/stark-ss/LeetCode_practice/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/stark-ss/LeetCode_practice/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/stark-ss/LeetCode_practice/tree/master/1109-corporate-flight-bookings) |
@@ -173,6 +175,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
