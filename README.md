@@ -32,6 +32,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stark-ss/LeetCode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/stark-ss/LeetCode_practice/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -42,6 +43,7 @@
 | [0303-range-sum-query-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/stark-ss/LeetCode_practice/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -77,6 +79,7 @@
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
+| [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 ## String
 |  |
 | ------- |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [1041-robot-bounded-in-circle](https://github.com/stark-ss/LeetCode_practice/tree/master/1041-robot-bounded-in-circle) |
+| [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 ## Stack
 |  |
 | ------- |
@@ -195,6 +199,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/stark-ss/LeetCode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
+| [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
