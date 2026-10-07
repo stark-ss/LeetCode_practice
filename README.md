@@ -38,6 +38,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/stark-ss/LeetCode_practice/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/2381-shifting-letters-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/stark-ss/LeetCode_practice/tree/master/2536-increment-submatrices-by-one) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/stark-ss/LeetCode_practice/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/2381-shifting-letters-ii) |
+| [2536-increment-submatrices-by-one](https://github.com/stark-ss/LeetCode_practice/tree/master/2536-increment-submatrices-by-one) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,4 +296,5 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [2536-increment-submatrices-by-one](https://github.com/stark-ss/LeetCode_practice/tree/master/2536-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
