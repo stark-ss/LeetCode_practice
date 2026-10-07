@@ -35,6 +35,7 @@
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/stark-ss/LeetCode_practice/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
+| [2381-shifting-letters-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/2381-shifting-letters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/stark-ss/LeetCode_practice/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
+| [2381-shifting-letters-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/2381-shifting-letters-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/stark-ss/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 | [1041-robot-bounded-in-circle](https://github.com/stark-ss/LeetCode_practice/tree/master/1041-robot-bounded-in-circle) |
+| [2381-shifting-letters-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/2381-shifting-letters-ii) |
 ## Sliding Window
 |  |
 | ------- |
