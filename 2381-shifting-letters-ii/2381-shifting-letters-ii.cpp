@@ -15,10 +15,9 @@ public:
                 pos[i[1]+1]-=1;
             }
         }
-        int sum=0;
-        for(int i=0;i<n;i++){
-            sum+=pos[i];
-            pos[i]=sum;
+       
+        for(int i=1;i<n;i++){
+            pos[i]+=pos[i-1];
         }
         for(int i=0;i<n;i++){
             int c=s[i]-'a';
