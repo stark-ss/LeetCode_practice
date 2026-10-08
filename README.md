@@ -39,6 +39,7 @@
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/stark-ss/LeetCode_practice/tree/master/1854-maximum-population-year) |
+| [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
 | [2381-shifting-letters-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/stark-ss/LeetCode_practice/tree/master/2536-increment-submatrices-by-one) |
 ## Prefix Sum
@@ -56,6 +57,7 @@
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/stark-ss/LeetCode_practice/tree/master/1854-maximum-population-year) |
+| [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
 | [2381-shifting-letters-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/2381-shifting-letters-ii) |
 | [2536-increment-submatrices-by-one](https://github.com/stark-ss/LeetCode_practice/tree/master/2536-increment-submatrices-by-one) |
 ## Dynamic Programming
@@ -144,6 +146,7 @@
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
+| [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
 ## Quicksort
 |  |
 | ------- |
@@ -303,5 +306,6 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
+| [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/stark-ss/LeetCode_practice/tree/master/2536-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
