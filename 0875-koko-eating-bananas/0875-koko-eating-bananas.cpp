@@ -7,7 +7,7 @@ public:
         top=max(top,i);
         int low=1;
         while(low<top){
-            long mid=low+(top-mid)/2;
+            long mid=low+(top-low)/2;
             long time=0;
             for(auto& i:piles){
                 time+=(i+mid-1)/mid;
