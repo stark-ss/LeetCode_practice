@@ -2,26 +2,26 @@ class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
         int n=weights.size();
-        int l=1,r=0;
-        for(auto& i : weights){
-        r+=i;
-        l=max(l,i);
+        int low=0;
+        int high=0;
+        for(auto& i:weights){
+            low=max(low,i);
+            high+=i;
         }
-        while(l<r){
-            int mid=l+(r-l)/2;
-            int w=0,d=1;
-            for(auto& i:weights){
-                if(w<=mid)
-                w+=i;
-                if(w>mid){
-                    d++;
-                    w=i;
-                }
+        while(low<high){
+            int mid=low+(high-low)/2;
+           int d=1,w=0;
+           for(auto& i:weights){
+            w+=i;
+            if(w>mid){
+                d++;
+                w=i;
             }
-             if(d>days) l=mid+1;
-             else r=mid;
+           }
+           if(d>days)
+            low=mid+1;
+            else high=mid;
         }
-        return r;
-
+        return high;
     }
 };
