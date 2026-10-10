@@ -23,6 +23,7 @@
 | [0303-range-sum-query-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/stark-ss/LeetCode_practice/tree/master/0456-132-pattern) |
@@ -54,6 +55,7 @@
 | [0238-product-of-array-except-self](https://github.com/stark-ss/LeetCode_practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -71,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/stark-ss/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stark-ss/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
@@ -130,6 +133,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stark-ss/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/stark-ss/LeetCode_practice/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/stark-ss/LeetCode_practice/tree/master/0875-koko-eating-bananas) |
@@ -156,6 +160,7 @@
 | [0055-jump-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/stark-ss/LeetCode_practice/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/stark-ss/LeetCode_practice/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
