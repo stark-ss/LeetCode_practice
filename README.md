@@ -17,6 +17,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/stark-ss/LeetCode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stark-ss/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
@@ -154,6 +155,7 @@
 | [0088-merge-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/stark-ss/LeetCode_practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stark-ss/LeetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 ## Greedy
@@ -178,6 +180,7 @@
 | [0050-powx-n](https://github.com/stark-ss/LeetCode_practice/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stark-ss/LeetCode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/stark-ss/LeetCode_practice/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 | [0878-nth-magical-number](https://github.com/stark-ss/LeetCode_practice/tree/master/0878-nth-magical-number) |
