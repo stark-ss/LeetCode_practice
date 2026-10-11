@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/stark-ss/LeetCode_practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/stark-ss/LeetCode_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0015-3sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/stark-ss/LeetCode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/stark-ss/LeetCode_practice/tree/master/0242-valid-anagram) |
@@ -181,6 +183,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
 ## Math
 |  |
