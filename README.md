@@ -46,6 +46,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/stark-ss/LeetCode_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stark-ss/LeetCode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/stark-ss/LeetCode_practice/tree/master/1109-corporate-flight-bookings) |
@@ -115,6 +116,7 @@
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
+| [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/stark-ss/LeetCode_practice/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
@@ -179,6 +181,7 @@
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
+| [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
 | [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
 ## Quicksort
 |  |
@@ -380,4 +383,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0494-target-sum) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
