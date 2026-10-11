@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/stark-ss/LeetCode_practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0090-subsets-ii) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stark-ss/LeetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/stark-ss/LeetCode_practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/stark-ss/LeetCode_practice/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/stark-ss/LeetCode_practice/tree/master/0242-valid-anagram) |
@@ -304,6 +306,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
@@ -336,6 +339,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
@@ -355,6 +359,7 @@
 | [0039-combination-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/stark-ss/LeetCode_practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/stark-ss/LeetCode_practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
