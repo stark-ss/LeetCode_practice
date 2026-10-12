@@ -101,6 +101,7 @@
 | [0494-target-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0494-target-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/stark-ss/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 | [1041-robot-bounded-in-circle](https://github.com/stark-ss/LeetCode_practice/tree/master/1041-robot-bounded-in-circle) |
+| [1143-longest-common-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/1143-longest-common-subsequence) |
 | [2381-shifting-letters-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/2381-shifting-letters-ii) |
 ## Sliding Window
 |  |
@@ -427,4 +429,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/stark-ss/LeetCode_practice/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
