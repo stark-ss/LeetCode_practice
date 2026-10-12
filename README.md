@@ -42,6 +42,7 @@
 | [0630-course-schedule-iii](https://github.com/stark-ss/LeetCode_practice/tree/master/0630-course-schedule-iii) |
 | [0704-binary-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/stark-ss/LeetCode_practice/tree/master/0739-daily-temperatures) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/stark-ss/LeetCode_practice/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -88,6 +89,7 @@
 | [0410-split-array-largest-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0494-target-sum) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
@@ -184,6 +186,7 @@
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/stark-ss/LeetCode_practice/tree/master/0630-course-schedule-iii) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
 | [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
 ## Quicksort
@@ -263,6 +266,7 @@
 | [0239-sliding-window-maximum](https://github.com/stark-ss/LeetCode_practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/stark-ss/LeetCode_practice/tree/master/0630-course-schedule-iii) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
