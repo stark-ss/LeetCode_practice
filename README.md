@@ -89,6 +89,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/stark-ss/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/stark-ss/LeetCode_practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stark-ss/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/stark-ss/LeetCode_practice/tree/master/0198-house-robber) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/stark-ss/LeetCode_practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/stark-ss/LeetCode_practice/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stark-ss/LeetCode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/stark-ss/LeetCode_practice/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0189-rotate-array) |
@@ -421,4 +423,8 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/stark-ss/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/stark-ss/LeetCode_practice/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/stark-ss/LeetCode_practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
