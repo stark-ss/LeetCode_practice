@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/stark-ss/LeetCode_practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/stark-ss/LeetCode_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
@@ -94,6 +95,7 @@
 | [0042-trapping-rain-water](https://github.com/stark-ss/LeetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/stark-ss/LeetCode_practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/stark-ss/LeetCode_practice/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stark-ss/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -389,6 +391,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0304-range-sum-query-2d-immutable) |
