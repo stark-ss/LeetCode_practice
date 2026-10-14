@@ -58,6 +58,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/stark-ss/LeetCode_practice/tree/master/1109-corporate-flight-bookings) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/stark-ss/LeetCode_practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stark-ss/LeetCode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -107,6 +108,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/stark-ss/LeetCode_practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/stark-ss/LeetCode_practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/1143-longest-common-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/stark-ss/LeetCode_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
@@ -209,6 +211,7 @@
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/stark-ss/LeetCode_practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
 ## Quicksort
 |  |
@@ -247,6 +250,7 @@
 | [0739-daily-temperatures](https://github.com/stark-ss/LeetCode_practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/stark-ss/LeetCode_practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -258,6 +262,7 @@
 | [0739-daily-temperatures](https://github.com/stark-ss/LeetCode_practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/stark-ss/LeetCode_practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/stark-ss/LeetCode_practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -450,4 +455,8 @@
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/stark-ss/LeetCode_practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/stark-ss/LeetCode_practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
