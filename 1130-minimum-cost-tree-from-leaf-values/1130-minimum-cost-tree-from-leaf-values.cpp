@@ -19,8 +19,8 @@ public:
     }
     int mctFromLeafValues(vector<int>& arr) {
         int n=arr.size();
-        int m=2*n-1;
-        vector<vector<pair<int,int>>> dp(m,vector<pair<int,int>>(m,{-1,-1}));
+
+        vector<vector<pair<int,int>>> dp(n,vector<pair<int,int>>(n,{-1,-1}));
         return calculate(0,n-1,arr,dp).first;
     }
 };
