@@ -54,6 +54,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/stark-ss/LeetCode_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stark-ss/LeetCode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/stark-ss/LeetCode_practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/stark-ss/LeetCode_practice/tree/master/1109-corporate-flight-bookings) |
@@ -105,6 +106,7 @@
 | [0494-target-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0494-target-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/stark-ss/LeetCode_practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/1143-longest-common-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/stark-ss/LeetCode_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
@@ -440,4 +442,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/1143-longest-common-subsequence) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/stark-ss/LeetCode_practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/stark-ss/LeetCode_practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
