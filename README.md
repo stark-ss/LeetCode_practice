@@ -60,6 +60,7 @@
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stark-ss/LeetCode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/stark-ss/LeetCode_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/stark-ss/LeetCode_practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1854-maximum-population-year](https://github.com/stark-ss/LeetCode_practice/tree/master/1854-maximum-population-year) |
 | [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
@@ -105,6 +106,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/stark-ss/LeetCode_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0630-course-schedule-iii](https://github.com/stark-ss/LeetCode_practice/tree/master/0630-course-schedule-iii) |
 | [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/stark-ss/LeetCode_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/stark-ss/LeetCode_practice/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
