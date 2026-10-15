@@ -56,6 +56,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/stark-ss/LeetCode_practice/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/stark-ss/LeetCode_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stark-ss/LeetCode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -120,6 +121,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/stark-ss/LeetCode_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/stark-ss/LeetCode_practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/stark-ss/LeetCode_practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/1143-longest-common-subsequence) |
@@ -406,6 +408,7 @@
 | [0064-minimum-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0931-minimum-falling-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
 | [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
