@@ -20,6 +20,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/stark-ss/LeetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/stark-ss/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stark-ss/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/stark-ss/LeetCode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/stark-ss/LeetCode_practice/tree/master/0134-gas-station) |
@@ -102,6 +103,7 @@
 | [0063-unique-paths-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/stark-ss/LeetCode_practice/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/stark-ss/LeetCode_practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stark-ss/LeetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/stark-ss/LeetCode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/stark-ss/LeetCode_practice/tree/master/0198-house-robber) |
