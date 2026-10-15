@@ -49,6 +49,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/stark-ss/LeetCode_practice/tree/master/0630-course-schedule-iii) |
 | [0704-binary-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/stark-ss/LeetCode_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/stark-ss/LeetCode_practice/tree/master/0739-daily-temperatures) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/stark-ss/LeetCode_practice/tree/master/0875-koko-eating-bananas) |
@@ -112,6 +113,7 @@
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/stark-ss/LeetCode_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/stark-ss/LeetCode_practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -218,6 +220,7 @@
 | [0435-non-overlapping-intervals](https://github.com/stark-ss/LeetCode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/stark-ss/LeetCode_practice/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/stark-ss/LeetCode_practice/tree/master/0630-course-schedule-iii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/stark-ss/LeetCode_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
