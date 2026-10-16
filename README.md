@@ -30,6 +30,7 @@
 | [0174-dungeon-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/stark-ss/LeetCode_practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/stark-ss/LeetCode_practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/stark-ss/LeetCode_practice/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0213-house-robber-ii) |
@@ -372,10 +373,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/stark-ss/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/stark-ss/LeetCode_practice/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
@@ -410,6 +413,7 @@
 | [0064-minimum-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/stark-ss/LeetCode_practice/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0931-minimum-falling-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -483,4 +487,8 @@
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/stark-ss/LeetCode_practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
