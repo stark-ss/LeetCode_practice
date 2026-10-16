@@ -61,6 +61,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/stark-ss/LeetCode_practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/stark-ss/LeetCode_practice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stark-ss/LeetCode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/stark-ss/LeetCode_practice/tree/master/1029-two-city-scheduling) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/stark-ss/LeetCode_practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -382,6 +383,7 @@
 | [0279-perfect-squares](https://github.com/stark-ss/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/stark-ss/LeetCode_practice/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+| [0994-rotting-oranges](https://github.com/stark-ss/LeetCode_practice/tree/master/0994-rotting-oranges) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -416,6 +418,7 @@
 | [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/stark-ss/LeetCode_practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0931-minimum-falling-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/stark-ss/LeetCode_practice/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
 | [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
