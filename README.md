@@ -74,6 +74,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stark-ss/LeetCode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/stark-ss/LeetCode_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/stark-ss/LeetCode_practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 | [1854-maximum-population-year](https://github.com/stark-ss/LeetCode_practice/tree/master/1854-maximum-population-year) |
 | [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/stark-ss/LeetCode_practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -206,6 +207,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stark-ss/LeetCode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stark-ss/LeetCode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/stark-ss/LeetCode_practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/stark-ss/LeetCode_practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Two Pointers
 |  |
@@ -320,6 +322,7 @@
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
+| [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -378,6 +381,7 @@
 | [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -387,6 +391,7 @@
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/stark-ss/LeetCode_practice/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -424,6 +429,7 @@
 | [0994-rotting-oranges](https://github.com/stark-ss/LeetCode_practice/tree/master/0994-rotting-oranges) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/stark-ss/LeetCode_practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
+| [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 | [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/stark-ss/LeetCode_practice/tree/master/2536-increment-submatrices-by-one) |
 ## Queue
@@ -497,6 +503,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -509,4 +516,5 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
