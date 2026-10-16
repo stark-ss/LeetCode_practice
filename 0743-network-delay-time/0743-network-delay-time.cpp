@@ -15,10 +15,14 @@ public:
       while(!q.empty()){
         auto[cost,start]=q.top();
         q.pop();
-        for(int i=0;i<nodes[start].size();i++){
-            if(cost+nodes[start][i].second<dis[nodes[start][i].first]){
-                dis[nodes[start][i].first]=cost+nodes[start][i].second;
-                q.push({cost+nodes[start][i].second,nodes[start][i].first});
+        if(cost>dis[start]) continue;
+        
+        for(auto& i:nodes[start]){
+            int neigh=i.first;
+            int distance=i.second;
+            if(cost+distance<dis[neigh]){
+                dis[neigh]=cost+distance;
+                q.push({cost+distance,neigh});
             }
         }
       }
