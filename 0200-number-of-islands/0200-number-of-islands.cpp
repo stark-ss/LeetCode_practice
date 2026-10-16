@@ -9,9 +9,9 @@ public:
         while(!q.empty()){
             auto[rr,cc]=q.front();
             q.pop();
-            for(int i=0;i<4;i++){
-                int row=rr+r[i];
-                int col=cc+c[i];
+            for(int k=0;k<4;k++){
+                int row=rr+r[k];
+                int col=cc+c[k];
                 if(row>=0 && row<m && col>=0 && col<n && g[row][col]=='1'){
                     q.push({row,col});
                     g[row][col]='a';
