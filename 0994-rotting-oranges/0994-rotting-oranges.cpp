@@ -1,17 +1,15 @@
 class Solution {
 public:
-    int rotten(queue<vector<int>>& q,vector<vector<int>>& g,int& m,int& n,int& orange){
+    int rotten(queue<array<int,3>>& q,vector<vector<int>>& g,int& m,int& n,int& orange){
         int time=0;
+        int r[]={-1,0,1,0};
+        int c[]={0,1,0,-1};
 
         while(!q.empty()){
-            vector<int> cur=q.front();
-            int i=cur[0];
-            int j=cur[1];
-            int t=cur[2];
+           auto[i,j,t]=q.front();
+
             q.pop();
             time=max(time,t);
-            int r[]={-1,0,1,0};
-            int c[]={0,1,0,-1};
             for(int k=0;k<4;k++){
                 int row=i+r[k];
                 int col=j+c[k];
@@ -27,7 +25,7 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int m=grid.size();
         int n=grid[0].size();
-        queue<vector<int>> q;
+        queue<array<int,3>> q;
         int orange=0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
