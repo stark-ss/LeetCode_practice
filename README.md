@@ -317,6 +317,7 @@
 | [0239-sliding-window-maximum](https://github.com/stark-ss/LeetCode_practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/stark-ss/LeetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/stark-ss/LeetCode_practice/tree/master/0630-course-schedule-iii) |
+| [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
 ## Bucket Sort
@@ -376,6 +377,7 @@
 | [0079-word-search](https://github.com/stark-ss/LeetCode_practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+| [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -383,6 +385,7 @@
 | [0279-perfect-squares](https://github.com/stark-ss/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/stark-ss/LeetCode_practice/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+| [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/stark-ss/LeetCode_practice/tree/master/0994-rotting-oranges) |
 ## Bézout's Lemma
 |  |
@@ -494,4 +497,16 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
