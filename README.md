@@ -72,6 +72,7 @@
 | [1314-matrix-block-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/stark-ss/LeetCode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stark-ss/LeetCode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/stark-ss/LeetCode_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/stark-ss/LeetCode_practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
@@ -322,6 +323,7 @@
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/stark-ss/LeetCode_practice/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1094-car-pooling](https://github.com/stark-ss/LeetCode_practice/tree/master/1094-car-pooling) |
+| [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -511,14 +513,17 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
