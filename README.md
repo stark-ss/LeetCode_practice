@@ -384,6 +384,7 @@
 | [0210-course-schedule-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -394,6 +395,7 @@
 | [0322-coin-change](https://github.com/stark-ss/LeetCode_practice/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/stark-ss/LeetCode_practice/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Bézout's Lemma
@@ -513,6 +515,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
 | [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -529,4 +532,13 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
