@@ -383,6 +383,7 @@
 | [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+| [0684-redundant-connection](https://github.com/stark-ss/LeetCode_practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
@@ -394,6 +395,7 @@
 | [0279-perfect-squares](https://github.com/stark-ss/LeetCode_practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/stark-ss/LeetCode_practice/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/stark-ss/LeetCode_practice/tree/master/0365-water-and-jug-problem) |
+| [0684-redundant-connection](https://github.com/stark-ss/LeetCode_practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/stark-ss/LeetCode_practice/tree/master/0994-rotting-oranges) |
@@ -509,11 +511,13 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/stark-ss/LeetCode_practice/tree/master/0684-redundant-connection) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/stark-ss/LeetCode_practice/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/stark-ss/LeetCode_practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
 | [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
