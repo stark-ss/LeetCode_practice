@@ -17,6 +17,7 @@ public:
         while(!q.empty()){
             auto[prob,start]=q.top();
             q.pop();
+            if(prob<vis[start]) continue;
             for(auto& i:cost[start]){
                 if(prob*i.second>vis[i.first]){
                     vis[i.first]=prob*i.second;
