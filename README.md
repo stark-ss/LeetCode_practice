@@ -60,6 +60,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/stark-ss/LeetCode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/stark-ss/LeetCode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/stark-ss/LeetCode_practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0990-satisfiability-of-equality-equations](https://github.com/stark-ss/LeetCode_practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/stark-ss/LeetCode_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/stark-ss/LeetCode_practice/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/stark-ss/LeetCode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -181,6 +182,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/stark-ss/LeetCode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/stark-ss/LeetCode_practice/tree/master/0763-partition-labels) |
+| [0990-satisfiability-of-equality-equations](https://github.com/stark-ss/LeetCode_practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1041-robot-bounded-in-circle](https://github.com/stark-ss/LeetCode_practice/tree/master/1041-robot-bounded-in-circle) |
 | [1143-longest-common-subsequence](https://github.com/stark-ss/LeetCode_practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/stark-ss/LeetCode_practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -512,6 +514,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/stark-ss/LeetCode_practice/tree/master/0684-redundant-connection) |
+| [0990-satisfiability-of-equality-equations](https://github.com/stark-ss/LeetCode_practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -520,6 +523,7 @@
 | [0684-redundant-connection](https://github.com/stark-ss/LeetCode_practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/stark-ss/LeetCode_practice/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
+| [0990-satisfiability-of-equality-equations](https://github.com/stark-ss/LeetCode_practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
