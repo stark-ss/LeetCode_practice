@@ -76,6 +76,7 @@
 | [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/stark-ss/LeetCode_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/stark-ss/LeetCode_practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1584-min-cost-to-connect-all-points](https://github.com/stark-ss/LeetCode_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 | [1854-maximum-population-year](https://github.com/stark-ss/LeetCode_practice/tree/master/1854-maximum-population-year) |
 | [2132-stamping-the-grid](https://github.com/stark-ss/LeetCode_practice/tree/master/2132-stamping-the-grid) |
@@ -515,6 +516,7 @@
 | [0200-number-of-islands](https://github.com/stark-ss/LeetCode_practice/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/stark-ss/LeetCode_practice/tree/master/0684-redundant-connection) |
 | [0990-satisfiability-of-equality-equations](https://github.com/stark-ss/LeetCode_practice/tree/master/0990-satisfiability-of-equality-equations) |
+| [1584-min-cost-to-connect-all-points](https://github.com/stark-ss/LeetCode_practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/stark-ss/LeetCode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -525,6 +527,7 @@
 | [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/stark-ss/LeetCode_practice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/stark-ss/LeetCode_practice/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/stark-ss/LeetCode_practice/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
@@ -549,4 +552,20 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/stark-ss/LeetCode_practice/tree/master/0802-find-eventual-safe-states) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/stark-ss/LeetCode_practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/stark-ss/LeetCode_practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/stark-ss/LeetCode_practice/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/stark-ss/LeetCode_practice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
